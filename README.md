@@ -1,42 +1,36 @@
-# La Tomate Rouge – Frontend
+# La Tomate Rouge - Backend 🚀
 
-### 🍅 A sleek and responsive frontend for the **La Tomate Rouge** restaurant application.
-
-This project contains the frontend code for the **La Tomate Rouge** restaurant web application. It includes the user interface, navigation, and styling to showcase your restaurant's offerings.
+Welcome to the **backend** for **La Tomate Rouge**, an online restaurant platform built with **Spring Boot**. This backend handles all business logic, database interactions, and core functionalities, such as user authentication, order processing, and menu management.
 
 ---
 
-## 🚀 Project Overview
+## 🛠️ Tech Stack
 
-**La Tomate Rouge** is a frontend application designed to provide a seamless and interactive user experience for restaurant customers. It showcases your menu, displays dishes, and enables easy interaction with restaurant offerings.
-
----
-
-## ✨ Features
-
-- 📜 **Responsive Design**: Fully responsive interface compatible with all devices (mobile, tablet, desktop).
-- 🥗 **Menu Display**: Showcase food items with images and descriptions.
-- 🎨 **Clean UI/UX**: Modern and intuitive interface.
-- 🔍 **Search & Navigation**: Easy navigation for users to explore dishes and categories.
+- **Framework:** Spring Boot  
+- **Database:** MySQL  
+- **ORM:** Hibernate  
+- **Dependency Management:** Maven  
+- **Tools:** IntelliJ IDEA  
 
 ---
 
-## 🔧 Technologies Used
 
-- HTML5
-- CSS3 (with custom styling)
-- JavaScript (ES6+)
-- Bootstrap (for responsive design)
-- Other Frontend Tools
-
----
-
-## 🛠 Setup Instructions
+## 🔍 How to Get Started
 
 ### Prerequisites
 
-Make sure you have **Node.js** and **npm** installed. Check if they are installed:
+Ensure you have the following installed:
+
+- **Java 17+**
+- **Maven**  
+- A **MySQL server** running  
+- IntelliJ IDEA (recommended IDE)
+
+---
+
+### 1. Clone the Repository
 
 ```bash
-node -v
-npm -v
+git clone https://github.com/yourusername/LaTomateRouge.git
+
+
